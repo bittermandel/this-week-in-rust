@@ -36,6 +36,7 @@ and just ask the editors to select the category.
 ### Newsletters
 
 ### Project/Tooling Updates
+- [Announcing Valv KMS, an alternative to Hashicorp Vault](https://github.com/molnett/valv)
 
 ### Observations/Thoughts
 
